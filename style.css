@@ -1,0 +1,14 @@
+#top{
+    width: 20px;
+    height: 20px;
+    border-radius: 100%;
+    background-color: black;
+    position: fixed;
+    right: 12px;
+    bottom: 12px;
+    cursor: pointer;
+}
+body{
+    height: 3000px;
+    background: linear-gradient(green,red);
+}
